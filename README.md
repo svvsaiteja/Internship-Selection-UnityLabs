@@ -1,6 +1,4 @@
-# React + Vite Template
-
-This template offers a streamlined setup for integrating React into Vite, complete with Hot Module Replacement (HMR) and essential ESLint rules.
+# React + Vite
 
 ## Getting Started
 
