@@ -9,8 +9,8 @@ To begin using this React + Vite template, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone <repository-url>
-   cd <project-directory>
+   git clone <https://github.com/svvsaiteja/Internship-Selection-UnityLabs>
+   cd Internship-Selection-UnityLabs
    ```
 
 2. **Install Dependencies:**
@@ -25,7 +25,7 @@ To begin using this React + Vite template, follow these steps:
    npm run dev
    ```
 
-   This will start the development server at `http://localhost:3000`. Open this URL in your browser to view your React application.
+   This will start the development server at `http://localhost:5173/`. Open this URL in your browser to view your React application.
 
 ## Available Plugins
 
