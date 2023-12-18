@@ -9,7 +9,7 @@ To begin using this React + Vite template, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone <https://github.com/svvsaiteja/Internship-Selection-UnityLabs>
+   git clone https://github.com/svvsaiteja/Internship-Selection-UnityLabs
    cd Internship-Selection-UnityLabs
    ```
 
